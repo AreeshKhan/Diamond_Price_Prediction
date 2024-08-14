@@ -1,0 +1,28 @@
+[ 2024-08-15 00:26:21,729 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-08-15 00:26:21,744 ] 97 werkzeug - INFO -  * Debugger PIN: 994-268-944
+[ 2024-08-15 00:26:34,586 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Aug/2024 00:26:34] "GET / HTTP/1.1" 200 -
+[ 2024-08-15 00:26:34,621 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Aug/2024 00:26:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-08-15 00:26:34,744 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Aug/2024 00:26:34] "GET / HTTP/1.1" 200 -
+[ 2024-08-15 00:26:37,234 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Aug/2024 00:26:37] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-15 00:26:37,269 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Aug/2024 00:26:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-08-15 00:26:37,371 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Aug/2024 00:26:37] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-15 00:27:08,203 ] 67 root - INFO - Dataframe Gathered
+[ 2024-08-15 00:27:08,324 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Aug/2024 00:27:08] "POST /predict HTTP/1.1" 200 -
+[ 2024-08-15 00:27:08,342 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Aug/2024 00:27:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-08-15 00:27:08,405 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Aug/2024 00:27:08] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-15 00:57:57,400 ] 67 root - INFO - Dataframe Gathered
+[ 2024-08-15 00:57:57,420 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Aug/2024 00:57:57] "POST /predict HTTP/1.1" 200 -
+[ 2024-08-15 00:57:57,440 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Aug/2024 00:57:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-08-15 00:57:57,594 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Aug/2024 00:57:57] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-15 00:58:00,248 ] 67 root - INFO - Dataframe Gathered
+[ 2024-08-15 00:58:00,272 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Aug/2024 00:58:00] "POST /predict HTTP/1.1" 200 -
+[ 2024-08-15 00:58:00,295 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Aug/2024 00:58:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-08-15 00:58:00,375 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Aug/2024 00:58:00] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-15 00:58:04,010 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Aug/2024 00:58:04] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-15 00:58:04,901 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Aug/2024 00:58:04] "GET / HTTP/1.1" 200 -
+[ 2024-08-15 00:58:06,907 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Aug/2024 00:58:06] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-15 00:58:06,933 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Aug/2024 00:58:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-08-15 00:58:07,004 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Aug/2024 00:58:07] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-15 00:58:15,451 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Aug/2024 00:58:15] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-15 00:58:15,474 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Aug/2024 00:58:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-08-15 00:58:15,546 ] 97 werkzeug - INFO - 127.0.0.1 - - [15/Aug/2024 00:58:15] "GET /predict HTTP/1.1" 200 -

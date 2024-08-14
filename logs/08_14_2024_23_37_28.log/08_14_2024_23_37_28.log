@@ -1,0 +1,18 @@
+[ 2024-08-14 23:37:29,625 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-08-14 23:37:29,640 ] 97 werkzeug - INFO -  * Debugger PIN: 994-268-944
+[ 2024-08-14 23:37:30,091 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:37:30] "GET / HTTP/1.1" 200 -
+[ 2024-08-14 23:37:30,116 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:37:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-08-14 23:37:30,271 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:37:30] "GET / HTTP/1.1" 200 -
+[ 2024-08-14 23:37:32,231 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:37:32] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-14 23:37:32,264 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:37:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-08-14 23:37:32,359 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:37:32] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-14 23:37:35,039 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:37:35] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-14 23:37:35,058 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:37:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-08-14 23:37:35,117 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:37:35] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-14 23:37:39,579 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:37:39] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-14 23:37:39,599 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:37:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-08-14 23:37:39,655 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:37:39] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-14 23:39:23,927 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:39:23] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-14 23:39:23,948 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:39:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-08-14 23:39:24,011 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:39:24] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-14 23:40:49,843 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\ARISH\\Desktop\\Data Science\\PW_Skills\\ML projects\\Diamod_Price_Prediction\\app.py', reloading

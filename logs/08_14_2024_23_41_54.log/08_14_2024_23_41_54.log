@@ -1,0 +1,13 @@
+[ 2024-08-14 23:41:55,476 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-08-14 23:41:55,490 ] 97 werkzeug - INFO -  * Debugger PIN: 994-268-944
+[ 2024-08-14 23:41:57,161 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:41:57] "GET / HTTP/1.1" 200 -
+[ 2024-08-14 23:41:57,188 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:41:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-08-14 23:41:57,306 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:41:57] "GET / HTTP/1.1" 200 -
+[ 2024-08-14 23:41:59,426 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:41:59] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-14 23:41:59,451 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:41:59] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-08-14 23:41:59,521 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:41:59] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-14 23:42:29,309 ] 67 root - INFO - Dataframe Gathered
+[ 2024-08-14 23:42:30,321 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:42:30] "POST /predict HTTP/1.1" 200 -
+[ 2024-08-14 23:42:30,346 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:42:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-08-14 23:42:30,411 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:42:30] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-14 23:45:52,381 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\ARISH\\Desktop\\Data Science\\PW_Skills\\ML projects\\Diamod_Price_Prediction\\main.py', reloading

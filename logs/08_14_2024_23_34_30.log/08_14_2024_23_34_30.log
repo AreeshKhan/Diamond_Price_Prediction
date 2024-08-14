@@ -1,0 +1,10 @@
+[ 2024-08-14 23:34:31,518 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-08-14 23:34:31,531 ] 97 werkzeug - INFO -  * Debugger PIN: 994-268-944
+[ 2024-08-14 23:34:33,234 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:34:33] "GET / HTTP/1.1" 200 -
+[ 2024-08-14 23:34:33,264 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:34:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-08-14 23:34:33,354 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:34:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2024-08-14 23:34:33,400 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:34:33] "GET / HTTP/1.1" 200 -
+[ 2024-08-14 23:34:38,545 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:34:38] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-14 23:34:38,570 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:34:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-08-14 23:34:38,639 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 23:34:38] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-14 23:37:00,149 ] 97 werkzeug - INFO -  * Detected change in 'c:\\users\\arish\\desktop\\data science\\pw_skills\\ml projects\\diamod_price_prediction\\app.py', reloading

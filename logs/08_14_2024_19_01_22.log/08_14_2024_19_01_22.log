@@ -1,0 +1,12 @@
+[ 2024-08-14 19:01:23,662 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2024-08-14 19:01:23,683 ] 97 werkzeug - INFO -  * Debugger PIN: 994-268-944
+[ 2024-08-14 19:01:24,196 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 19:01:24] "GET / HTTP/1.1" 200 -
+[ 2024-08-14 19:01:24,227 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 19:01:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-08-14 19:01:24,299 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 19:01:24] "GET / HTTP/1.1" 200 -
+[ 2024-08-14 19:01:26,588 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 19:01:26] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-14 19:01:26,617 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 19:01:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-08-14 19:01:26,689 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 19:01:26] "GET /predict HTTP/1.1" 200 -
+[ 2024-08-14 19:01:49,861 ] 67 root - INFO - Dataframe Gathered
+[ 2024-08-14 19:01:51,323 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 19:01:51] "POST /predict HTTP/1.1" 200 -
+[ 2024-08-14 19:01:51,345 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 19:01:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+[ 2024-08-14 19:01:51,427 ] 97 werkzeug - INFO - 127.0.0.1 - - [14/Aug/2024 19:01:51] "GET /predict HTTP/1.1" 200 -
