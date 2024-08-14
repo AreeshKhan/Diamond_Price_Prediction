@@ -18,7 +18,8 @@ The app will be available at the following local host address:
 
 The Streamlit app code is located in `main.py`. To run the app, execute the following command:
 `streamlit run main.py`
-
+The Streamlit live web app for Diamond Price Prediction:
+Link: `https://areesh-khan-diamond-price-prediction.streamlit.app/`
 ### Note
 
 You can uncomment line 45 in `Model_trainer.py` for a better Regressor Model.
