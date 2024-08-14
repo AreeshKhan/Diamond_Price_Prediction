@@ -1,4 +1,5 @@
 ## Getting Started
+run `pip install -r requirements.txt` on ur terminal
 
 ### Training Pipeline
 
