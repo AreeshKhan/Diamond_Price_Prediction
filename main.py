@@ -1,9 +1,9 @@
 import streamlit as st
-from src.pipelines.prediction_pipeline import CustomData, PredictPipeline
+from src.pipelines.prediction_pipeline import CustomData
 import pickle
-import pandas as pd
 
-# Load models and vectorizer
+
+# Load models
 preprocessor = pickle.load(open('artifacts/preprocessor.pkl', 'rb'))
 model = pickle.load(open('artifacts/model.pkl', 'rb'))
 
